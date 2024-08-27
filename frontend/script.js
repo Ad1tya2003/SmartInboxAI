@@ -1,20 +1,3 @@
-// document.addEventListener('DOMContentLoaded', function() {
-//     const signinButton1 = document.getElementById('signin-btn-google');
-  
-//     signinButton1.addEventListener('click', function() {
-      
-//       window.location.href = 'https://reachin-box-assignment.onrender.com/auth/google';
-//     });
-
-//     const signinButton2 = document.getElementById('signin-btn-ms');
-  
-//     signinButton2.addEventListener('click', function() {
-      
-//     //   window.location.href = 'https://reachinbox-assignment-4rf9.onrender.com/signin';
-//     });
-//   });
-// No JavaScript functionality needed based on the provided image
-// But you can add event listeners for button clicks if needed
 
 
 
