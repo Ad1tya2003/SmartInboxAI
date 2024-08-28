@@ -7,7 +7,7 @@ ReachInboxAI Assignment
 The assignment is to build a tool that will parse and check the emails in a Google and Outlook email ID, and
 respond to the e-mails based on the context using AI. Use BullMQ as the tasks scheduler
 This is a server-based application built with Node.js and Express. It uses various packages such as  `openai` for AI functionalities, `googleapis` for Google APIs, and `axios` for HTTP requests and `bullMQ` to process queues.
-![image](https://github.com/shraddha-gawde/reachInbox-assignment/assets/101090200/0237adc4-c817-4d79-9b09-fc0b27f34e6e)
+![image](https://github.com/Ad1tya2003/SmartInboxAI/frontend/Screenshot 2024-08-28 231651.png)
 
 
 # technologies used:
